@@ -1,5 +1,5 @@
-"""from datetime import date
-anoAtual = date.today().year"""
+from datetime import date
+anoAtual = date.today().year
 nome = str(input('Qual seu nome ? '))
 dia = int(input('Qual dia voce nasceu ? '))
 mes = int(input('Qual mes que voce nasceu ? '))
