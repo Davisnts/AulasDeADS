@@ -1,11 +1,11 @@
-#Faça um programa que pergunte quando você ganha por dia,pergunte o numero de dia trabalhados
-#Calcule e mostre o total do salario bruto.
-#Monstre no Final
-#Salario Bruto
-#INSS - 11%
-#IRPF - 7%
-#FGTS - 8%
-#Salario Liquido
+'''Faça um programa que pergunte quando você ganha por dia,pergunte o numero de dia trabalhados
+Calcule e mostre o total do salario bruto.
+Monstre no Final
+Salario Bruto
+INSS - 11%
+IRPF - 7%
+FGTS - 8%
+Salario Liquido'''
 mold='='*35
 SalarioD = float(input('Quanto você recebe por dia ?: R$ '))
 dias = int(input('Quantos dias voce trabalhou? '))
