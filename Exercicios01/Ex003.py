@@ -1,3 +1,4 @@
+#Gerador da tabuada feito em python
 n = int(input('Qual Numero voce precisa saber a tabuada ? '))
 While n == 0:
   print ('Numero invalido tente novamente')
